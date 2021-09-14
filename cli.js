@@ -54,5 +54,5 @@ inquirer.prompt([
     })
   })
   .catch((error) => {
-    console.log("报错...")
+    console.log("报错....")
   })
